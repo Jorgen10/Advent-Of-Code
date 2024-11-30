@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
